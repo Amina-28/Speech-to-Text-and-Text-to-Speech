@@ -4,7 +4,9 @@ Convert speech to text and text to speech using ibm Watson and python.
 
 # Installation
 -python
+
 -pip install pipwin
+
 -pipwin install pyadudio
 
 
